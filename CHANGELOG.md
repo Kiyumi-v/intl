@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.18.0 (2024-07-28)
+
+### Features
+
+* update ([c0bb68c](https://github.com/Kiyumi-v/intl/commit/c0bb68c19f9088a14a3734afaaecf024c142a927)) – by @Kiyumi-v
+
 ## 3.17.2 (2024-07-19)
 
 ### Bug Fixes
